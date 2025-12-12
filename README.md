@@ -11,11 +11,17 @@ This project covers the required acceptance criteria:
 # Structure
 
 togetherai/
+
 ├── tests/
-│ └── hackerNewsAPITest.spec.ts
+
+  │── hackerNewsAPITest.spec.ts
+
 ├── package.json
+
 ├── playwright.config.ts
+
 └── README.md
+
 
 
 # How to install
